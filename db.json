@@ -1,0 +1,187 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "publicationDate": "2010-02-19",
+      "coverImage": "https://m.media-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg",
+      "numberOfPages": 464,
+      "publisher": "Pearson"
+    },
+    {
+      "id": 2,
+      "authorId": 1,
+      "title": "Agile Principles, Patterns, and Practices in C#",
+      "publicationDate": "2008-02-06",
+      "coverImage": "https://m.media-amazon.com/images/I/51YTqGVOD7L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "numberOfPages": 768,
+      "publisher": "Pearson"
+    },
+    {
+      "id": 3,
+      "authorId": 1,
+      "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+      "publicationDate": "2013-10-28",
+      "coverImage": "https://m.media-amazon.com/images/I/51uO-K+V5dL._SX381_BO1,204,203,200_.jpg",
+      "numberOfPages": 256,
+      "publisher": "Pearson"
+    },
+    {
+      "id": 4,
+      "authorId": 1,
+      "title": "Agile Software Development, Principles, Patterns, and Practices",
+      "publicationDate": "2014-11-27",
+      "coverImage": "https://m.media-amazon.com/images/I/51GXv-sMBYL._SX258_BO1,204,203,200_QL70_ML2_.jpg",
+      "numberOfPages": 552,
+      "publisher": "Pearson"
+    },
+    {
+      "id": 5,
+      "authorId": 1,
+      "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+      "publicationDate": "2018-05-11",
+      "coverImage": "https://m.media-amazon.com/images/I/41-sN-mzwKL._SX258_BO1,204,203,200_QL70_ML2_.jpg",
+      "numberOfPages": 432,
+      "publisher": "Pearson"
+    },
+    {
+      "id": 6,
+      "authorId": 1,
+      "title": "Clean Agile: Back to Basics",
+      "publicationDate": "2020-06-23",
+      "coverImage": "https://m.media-amazon.com/images/I/41NLRXYNQdL._SX258_BO1,204,203,200_QL70_ML2_.jpg",
+      "numberOfPages": null,
+      "publisher": "Upfront Books"
+    },
+    {
+      "id": 7,
+      "authorId": 1,
+      "title": "Clean Craftsmanship: Disciplines, Standards, and Ethics",
+      "publicationDate": "2022-09-20",
+      "coverImage": "https://m.media-amazon.com/images/I/41SPDw5X+LL._SX258_BO1,204,203,200_.jpg",
+      "numberOfPages": 416,
+      "publisher": "Addison-Wesley Professional"
+    },
+    {
+      "id": 8,
+      "authorId": 2,
+      "title": "HTML and CSS: Design and Build Websites",
+      "publicationDate": "2017-12-21",
+      "coverImage": "https://m.media-amazon.com/images/I/41WznOEKmAL._SX258_BO1,204,203,200_QL70_ML2_.jpg",
+      "numberOfPages": 490,
+      "publisher": "John Wiley & Sons"
+    },
+    {
+      "id": 9,
+      "authorId": 2,
+      "title": "JavaScript and jQuery: Interactive Front-End Web Development",
+      "publicationDate": "2015-04-27",
+      "coverImage": "https://m.media-amazon.com/images/I/41y31M-zcgL._SX258_BO1,204,203,200_QL70_ML2_.jpg",
+      "numberOfPages": 640,
+      "publisher": "Wiley"
+    },
+    {
+      "id": 10,
+      "authorId": 2,
+      "title": "PHP & MySQL: Server-side Web Development",
+      "publicationDate": "2022-02-14",
+      "coverImage": "https://m.media-amazon.com/images/I/41Ek9KKVYSL._SX715_BO1,204,203,200_.jpg",
+      "numberOfPages": 672,
+      "publisher": "Wiley"
+    },
+    {
+      "id": 11,
+      "authorId": 2,
+      "title": "Accessible XHTML and CSS Web Sites Problem Design Solution",
+      "publicationDate": "2008-07-08",
+      "coverImage": "https://media.wiley.com/product_data/coverImage300/06/07645979/0764597906.jpg",
+      "numberOfPages": 480,
+      "publisher": null
+    },
+    {
+      "id": 12,
+      "authorId": 3,
+      "title": "Mastering TypeScript 3. Build enterprise-ready, industrial-strength web applications using TypeScript 3 and modern frameworks - Third Edition",
+      "publicationDate": "2019-02-28",
+      "coverImage": "https://static01.helion.com.pl/global/okladki/326x466/e_14r5.png",
+      "numberOfPages": 696,
+      "publisher": "Packt Publishing"
+    },
+    {
+      "id": 13,
+      "authorId": 3,
+      "title": "Mastering TypeScript. Build enterprise-ready, modular web applications using TypeScript 4 and modern frameworks - Fourth Edition",
+      "publicationDate": "2017-11-24",
+      "coverImage": "https://m.media-amazon.com/images/I/714CM4h4kjS.jpg",
+      "numberOfPages": 538,
+      "publisher": "Packt Publishing"
+    },
+    {
+      "id": 14,
+      "authorId": 4,
+      "title": "React: Up & Running: Building Web Applications, 2nd Edition",
+      "publicationDate": "2023-02-14",
+      "coverImage": "https://m.media-amazon.com/images/P/1492051462.01._SCLZZZZZZZ_SX500_.jpg",
+      "numberOfPages": 538,
+      "publisher": "Packt Publishing"
+    },
+    {
+      "id": 15,
+      "authorId": 4,
+      "title": "JavaScript Patterns: Build Better Applications with Coding and",
+      "publicationDate": "2010-10-12",
+      "coverImage": "https://m.media-amazon.com/images/I/61BnqqTlQoS.jpg",
+      "numberOfPages": 230,
+      "publisher": "O'Reilly Media"
+    },
+    {
+      "id": 16,
+      "authorId": 4,
+      "title": "Object-Oriented JavaScript.",
+      "publicationDate": "2008-07-23",
+      "coverImage": "https://m.media-amazon.com/images/I/71BuEIIncGL.jpg",
+      "numberOfPages": 550,
+      "publisher": "Packt Publishing"
+    },
+    {
+      "id": 17,
+      "authorId": 5,
+      "title": "SEOrigami. Sztuka pisania unikatowego (nie tylko na potrzeby pozycjonowania)",
+      "publicationDate": "2022-01-25",
+      "coverImage": "https://static01.helion.com.pl/global/okladki/326x466/seorig.png",
+      "numberOfPages": 136,
+      "publisher": "Onepress"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Robert C. Martin",
+      "numberOfBooks": 7
+    },
+    {
+      "id": 2,
+      "name": "Jon Duckett",
+      "numberOfBooks": 4
+    },
+    {
+      "id": 3,
+      "name": "Nathan Rozentals",
+      "numberOfBooks": 2
+    },
+    {
+      "id": 4,
+      "name": "Stoyan Stefanov",
+      "numberOfBooks": 3
+    },
+    {
+      "id": 5,
+      "name": "Piotr Kaleta",
+      "numberOfBooks": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
